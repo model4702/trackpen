@@ -24,25 +24,27 @@ $ cd trackpen/gui
 - Trackball:
   - 3-5V to 3.3V
   - GND to GND
-  - SCL to A5 (?)
-  - SDA to A4 (?)
+  - SCL to A5
+  - SDA to A4
 
-4. Upload gui.ino sketch to Arduino using the Arduino IDE.
+4. Install the .zip libraries in the arduino_libraries folder using the Arduino IDE
 
-5. Configure and activate virtual environment:
+5. Upload gui/gui.ino sketch to Arduino using the Arduino IDE.
+
+6. Configure and activate virtual environment:
 
 ```
 $ python3 -m venv venv
 $ . venv/bin/activate
 ```
 
-6. Install requirements
+7. Install requirements
 
 ```
 $ pip install -r requirements.txt
 ```
 
-7. Run the GUI
+8. Run the GUI
 
 ```
 $ python3 gui.py
