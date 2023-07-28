@@ -50,7 +50,9 @@ $ pip install -r requirements.txt
 $ python3 gui.py
 ```
 
-If you have troubles with tkinter, you must configure your local Python installation for it. On mac, run
+Each time the script is ran, a new file containg the data will be written to gui/data.
+
+If you have trouble with tkinter, you must configure your local Python installation for it. On mac, run
 
 ```
 $ brew install python-tk
