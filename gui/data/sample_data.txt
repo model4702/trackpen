@@ -1,0 +1,481 @@
+Accelerometer: X: -0.54, Y: 0.68, Z: -0.7
+Gyroscope: X: 1.81, Y: 10.16, Z: 0.0
+Trackball: X: 0, Y: 0, Button Status: Not Clicked
+Accelerometer: X: -0.55, Y: 0.65, Z: -0.73
+Gyroscope: X: 1.81, Y: 9.95, Z: 0.07
+Trackball: X: 0, Y: 0, Button Status: Not Clicked
+Accelerometer: X: -0.56, Y: 0.67, Z: -0.71
+Gyroscope: X: 1.95, Y: 9.88, Z: 0.0
+Trackball: X: 0, Y: 0, Button Status: Not Clicked
+Accelerometer: X: -0.54, Y: 0.66, Z: -0.71
+Gyroscope: X: 1.74, Y: 10.16, Z: -0.42
+Trackball: X: 0, Y: 0, Button Status: Not Clicked
+Accelerometer: X: -0.54, Y: 0.66, Z: -0.72
+Gyroscope: X: 2.16, Y: 9.95, Z: 0.0
+Trackball: X: 0, Y: 0, Button Status: Not Clicked
+Accelerometer: X: -0.56, Y: 0.66, Z: -0.73
+Gyroscope: X: 1.39, Y: 9.81, Z: -0.28
+Trackball: X: 0, Y: 0, Button Status: Not Clicked
+Accelerometer: X: -0.54, Y: 0.66, Z: -0.71
+Gyroscope: X: 1.74, Y: 10.5, Z: 0.07
+Trackball: X: 0, Y: 0, Button Status: Not Clicked
+Accelerometer: X: -0.54, Y: 0.66, Z: -0.71
+Gyroscope: X: 1.6, Y: 10.57, Z: -0.42
+Trackball: X: 0, Y: 0, Button Status: Not Clicked
+Accelerometer: X: -0.54, Y: 0.66, Z: -0.71
+Gyroscope: X: 1.53, Y: 9.74, Z: 0.35
+Trackball: X: 0, Y: 0, Button Status: Not Clicked
+Accelerometer: X: -0.57, Y: 0.68, Z: -0.72
+Gyroscope: X: 1.39, Y: 10.57, Z: -0.77
+Trackball: X: 0, Y: 0, Button Status: Not Clicked
+Accelerometer: X: -0.54, Y: 0.68, Z: -0.7
+Gyroscope: X: 2.16, Y: 9.81, Z: -0.07
+Trackball: X: 0, Y: 0, Button Status: Not Clicked
+Accelerometer: X: -0.54, Y: 0.67, Z: -0.7
+Gyroscope: X: 1.95, Y: 9.95, Z: -0.77
+Trackball: X: 0, Y: 0, Button Status: Not Clicked
+Accelerometer: X: -0.55, Y: 0.64, Z: -0.73
+Gyroscope: X: 1.74, Y: 9.81, Z: -0.14
+Trackball: X: 0, Y: 0, Button Status: Not Clicked
+Accelerometer: X: -0.55, Y: 0.65, Z: -0.73
+Gyroscope: X: 1.46, Y: 10.02, Z: -0.63
+Trackball: X: 0, Y: 0, Button Status: Not Clicked
+Accelerometer: X: -0.56, Y: 0.66, Z: -0.73
+Gyroscope: X: 1.81, Y: 9.67, Z: -0.35
+Trackball: X: 0, Y: 0, Button Status: Not Clicked
+Accelerometer: X: -0.55, Y: 0.68, Z: -0.7
+Gyroscope: X: 1.53, Y: 10.09, Z: 0.0
+Trackball: X: 0, Y: 0, Button Status: Not Clicked
+Accelerometer: X: -0.55, Y: 0.68, Z: -0.7
+Gyroscope: X: 1.25, Y: 9.95, Z: -0.21
+Trackball: X: 0, Y: 0, Button Status: Not Clicked
+Accelerometer: X: -0.56, Y: 0.68, Z: -0.7
+Gyroscope: X: 1.95, Y: 9.88, Z: -0.83
+Trackball: X: 0, Y: 0, Button Status: Not Clicked
+Accelerometer: X: -0.55, Y: 0.66, Z: -0.71
+Gyroscope: X: 1.81, Y: 9.67, Z: -0.21
+Trackball: X: 0, Y: 0, Button Status: Not Clicked
+Accelerometer: X: -0.55, Y: 0.65, Z: -0.72
+Gyroscope: X: 2.64, Y: 9.46, Z: -0.42
+Trackball: X: 0, Y: 0, Button Status: Not Clicked
+Accelerometer: X: -0.57, Y: 0.67, Z: -0.71
+Gyroscope: X: 0.97, Y: 10.43, Z: -0.7
+Trackball: X: 0, Y: 0, Button Status: Not Clicked
+Accelerometer: X: -0.54, Y: 0.66, Z: -0.72
+Gyroscope: X: 1.74, Y: 10.09, Z: 0.21
+Trackball: X: 0, Y: 0, Button Status: Not Clicked
+Accelerometer: X: -0.55, Y: 0.66, Z: -0.72
+Gyroscope: X: 1.46, Y: 9.88, Z: -0.42
+Trackball: X: 0, Y: 0, Button Status: Not Clicked
+Accelerometer: X: -0.54, Y: 0.66, Z: -0.71
+Gyroscope: X: 2.23, Y: 10.37, Z: 0.0
+Trackball: X: 0, Y: 0, Button Status: Not Clicked
+Accelerometer: X: -0.55, Y: 0.68, Z: -0.71
+Gyroscope: X: 1.25, Y: 10.3, Z: -0.28
+Trackball: X: 0, Y: 0, Button Status: Not Clicked
+Accelerometer: X: -0.54, Y: 0.65, Z: -0.73
+Gyroscope: X: 1.53, Y: 9.81, Z: 0.0
+Trackball: X: 0, Y: 0, Button Status: Not Clicked
+Accelerometer: X: -0.55, Y: 0.66, Z: -0.73
+Gyroscope: X: 2.02, Y: 9.95, Z: -0.28
+Trackball: X: 0, Y: 0, Button Status: Not Clicked
+Accelerometer: X: -0.54, Y: 0.66, Z: -0.71
+Gyroscope: X: 1.74, Y: 10.02, Z: -0.83
+Trackball: X: 0, Y: 0, Button Status: Not Clicked
+Accelerometer: X: -0.55, Y: 0.66, Z: -0.72
+Gyroscope: X: 2.02, Y: 10.16, Z: 0.35
+Trackball: X: 0, Y: 0, Button Status: Not Clicked
+Accelerometer: X: -0.55, Y: 0.65, Z: -0.74
+Gyroscope: X: 1.32, Y: 10.37, Z: -0.14
+Trackball: X: 0, Y: 0, Button Status: Not Clicked
+Accelerometer: X: -0.54, Y: 0.66, Z: -0.72
+Gyroscope: X: 2.16, Y: 9.53, Z: -0.28
+Trackball: X: 0, Y: 0, Button Status: Not Clicked
+Accelerometer: X: -0.55, Y: 0.67, Z: -0.7
+Gyroscope: X: 2.02, Y: 9.81, Z: -0.28
+Trackball: X: 0, Y: 0, Button Status: Not Clicked
+Accelerometer: X: -0.54, Y: 0.66, Z: -0.72
+Gyroscope: X: 1.46, Y: 10.43, Z: -0.35
+Trackball: X: 0, Y: 0, Button Status: Not Clicked
+Accelerometer: X: -0.57, Y: 0.68, Z: -0.71
+Gyroscope: X: 1.67, Y: 9.88, Z: 0.63
+Trackball: X: 0, Y: 0, Button Status: Not Clicked
+Accelerometer: X: -0.57, Y: 0.66, Z: -0.72
+Gyroscope: X: 1.6, Y: 10.23, Z: -0.35
+Trackball: X: 0, Y: 0, Button Status: Not Clicked
+Accelerometer: X: -0.54, Y: 0.67, Z: -0.71
+Gyroscope: X: 2.09, Y: 9.81, Z: -0.28
+Trackball: X: 0, Y: 0, Button Status: Not Clicked
+Accelerometer: X: -0.56, Y: 0.67, Z: -0.72
+Gyroscope: X: 1.95, Y: 10.09, Z: -0.35
+Trackball: X: 0, Y: 0, Button Status: Not Clicked
+Accelerometer: X: -0.55, Y: 0.67, Z: -0.71
+Gyroscope: X: 1.25, Y: 10.02, Z: 0.14
+Trackball: X: 0, Y: 0, Button Status: Not Clicked
+Accelerometer: X: -0.55, Y: 0.67, Z: -0.7
+Gyroscope: X: 1.6, Y: 10.43, Z: -0.49
+Trackball: X: 0, Y: 0, Button Status: Not Clicked
+Accelerometer: X: -0.54, Y: 0.67, Z: -0.72
+Gyroscope: X: 2.02, Y: 9.81, Z: 0.0
+Trackball: X: 0, Y: 0, Button Status: Not Clicked
+Accelerometer: X: -0.54, Y: 0.66, Z: -0.71
+Gyroscope: X: 1.67, Y: 9.95, Z: -0.63
+Trackball: X: 0, Y: 0, Button Status: Not Clicked
+Accelerometer: X: -0.55, Y: 0.65, Z: -0.73
+Gyroscope: X: 1.74, Y: 10.02, Z: 0.42
+Trackball: X: 0, Y: 0, Button Status: Not Clicked
+Accelerometer: X: -0.55, Y: 0.65, Z: -0.73
+Gyroscope: X: 1.53, Y: 10.23, Z: -0.49
+Trackball: X: 0, Y: 0, Button Status: Not Clicked
+Accelerometer: X: -0.55, Y: 0.68, Z: -0.7
+Gyroscope: X: 2.09, Y: 10.09, Z: -0.56
+Trackball: X: 0, Y: 0, Button Status: Not Clicked
+Accelerometer: X: -0.56, Y: 0.67, Z: -0.72
+Gyroscope: X: 1.46, Y: 9.67, Z: -0.42
+Trackball: X: 0, Y: 0, Button Status: Not Clicked
+Accelerometer: X: -0.55, Y: 0.66, Z: -0.73
+Gyroscope: X: 1.67, Y: 10.37, Z: 0.0
+Trackball: X: 0, Y: 0, Button Status: Not Clicked
+Accelerometer: X: -0.55, Y: 0.68, Z: -0.7
+Gyroscope: X: 1.74, Y: 10.09, Z: -0.35
+Trackball: X: 0, Y: 0, Button Status: Not Clicked
+Accelerometer: X: -0.54, Y: 0.65, Z: -0.72
+Gyroscope: X: 1.67, Y: 9.88, Z: -0.14
+Trackball: X: 0, Y: 0, Button Status: Not Clicked
+Accelerometer: X: -0.57, Y: 0.67, Z: -0.72
+Gyroscope: X: 1.88, Y: 9.95, Z: -0.21
+Trackball: X: 0, Y: 0, Button Status: Not Clicked
+Accelerometer: X: -0.56, Y: 0.68, Z: -0.71
+Gyroscope: X: 1.74, Y: 9.88, Z: -0.35
+Trackball: X: 0, Y: 0, Button Status: Not Clicked
+Accelerometer: X: -0.54, Y: 0.66, Z: -0.71
+Gyroscope: X: 1.81, Y: 10.02, Z: -0.14
+Trackball: X: 0, Y: 0, Button Status: Not Clicked
+Accelerometer: X: -0.56, Y: 0.66, Z: -0.73
+Gyroscope: X: 1.6, Y: 9.95, Z: 0.07
+Trackball: X: 0, Y: 0, Button Status: Not Clicked
+Accelerometer: X: -0.57, Y: 0.68, Z: -0.72
+Gyroscope: X: 1.53, Y: 10.43, Z: -0.77
+Trackball: X: 0, Y: 0, Button Status: Not Clicked
+Accelerometer: X: -0.55, Y: 0.68, Z: -0.7
+Gyroscope: X: 2.09, Y: 9.67, Z: 0.07
+Trackball: X: 0, Y: 0, Button Status: Not Clicked
+Accelerometer: X: -0.55, Y: 0.65, Z: -0.73
+Gyroscope: X: 1.81, Y: 10.09, Z: -0.77
+Trackball: X: 0, Y: 0, Button Status: Not Clicked
+Accelerometer: X: -0.55, Y: 0.68, Z: -0.71
+Gyroscope: X: 1.32, Y: 9.53, Z: 0.35
+Trackball: X: 0, Y: 0, Button Status: Not Clicked
+Accelerometer: X: -0.55, Y: 0.67, Z: -0.7
+Gyroscope: X: 1.46, Y: 10.43, Z: -0.49
+Trackball: X: 0, Y: 0, Button Status: Not Clicked
+Accelerometer: X: -0.55, Y: 0.66, Z: -0.71
+Gyroscope: X: 2.02, Y: 9.67, Z: 0.21
+Trackball: X: 0, Y: 0, Button Status: Not Clicked
+Gyroscope: X: 1.53, Y: 10.02, Z: -0.49
+Trackball: X: 0, Y: 0, Button Status: Not Clicked
+Gyroscope: X: 1.74, Y: 10.16, Z: -0.07
+Trackball: X: 0, Y: 0, Button Status: Not Clicked
+Gyroscope: X: 1.6, Y: 9.95, Z: -0.14
+Trackball: X: 0, Y: 0, Button Status: Not Clicked
+Gyroscope: X: 1.67, Y: 10.23, Z: -0.28
+Trackball: X: 0, Y: 0, Button Status: Not Clicked
+Gyroscope: X: 1.95, Y: 9.6, Z: 0.21
+Trackball: X: 0, Y: 0, Button Status: Not Clicked
+Gyroscope: X: 1.32, Y: 10.43, Z: -0.56
+Trackball: X: 0, Y: 0, Button Status: Not Clicked
+Gyroscope: X: 2.16, Y: 9.95, Z: 0.63
+Trackball: X: 0, Y: 0, Button Status: Not Clicked
+Gyroscope: X: 1.6, Y: 9.88, Z: -0.35
+Trackball: X: 0, Y: 0, Button Status: Not Clicked
+Gyroscope: X: 1.88, Y: 10.02, Z: -0.21
+Trackball: X: 0, Y: 0, Button Status: Not Clicked
+Gyroscope: X: 2.02, Y: 9.95, Z: -0.14
+Trackball: X: 0, Y: 0, Button Status: Not Clicked
+Gyroscope: X: 1.74, Y: 10.23, Z: -0.14
+Trackball: X: 0, Y: 0, Button Status: Not Clicked
+Gyroscope: X: 1.67, Y: 9.74, Z: 0.07
+Trackball: X: 0, Y: 0, Button Status: Not Clicked
+Gyroscope: X: 2.02, Y: 10.3, Z: -0.7
+Trackball: X: 0, Y: 0, Button Status: Not Clicked
+Gyroscope: X: 2.09, Y: 9.67, Z: 0.7
+Trackball: X: 0, Y: 0, Button Status: Not Clicked
+Gyroscope: X: 1.11, Y: 10.5, Z: -0.9
+Trackball: X: 0, Y: 0, Button Status: Not Clicked
+Gyroscope: X: 2.37, Y: 9.81, Z: 0.63
+Trackball: X: 0, Y: 0, Button Status: Not Clicked
+Gyroscope: X: 1.81, Y: 10.23, Z: -0.63
+Trackball: X: 0, Y: 0, Button Status: Not Clicked
+Gyroscope: X: 2.3, Y: 9.32, Z: 0.0
+Trackball: X: 0, Y: 0, Button Status: Not Clicked
+Gyroscope: X: 1.53, Y: 10.16, Z: -0.77
+Trackball: X: 0, Y: 0, Button Status: Not Clicked
+Gyroscope: X: 1.95, Y: 9.95, Z: -0.14
+Trackball: X: 0, Y: 0, Button Status: Not Clicked
+Gyroscope: X: 1.53, Y: 9.74, Z: 0.07
+Trackball: X: 0, Y: 0, Button Status: Not Clicked
+Gyroscope: X: 1.18, Y: 10.43, Z: -0.7
+Trackball: X: 0, Y: 0, Button Status: Not Clicked
+Trackball: X: 0, Y: 0, Button Status: Not Clicked
+Trackball: X: 0, Y: 0, Button Status: Not Clicked
+Trackball: X: 0, Y: 0, Button Status: Not Clicked
+Trackball: X: 0, Y: 0, Button Status: Not Clicked
+Trackball: X: 0, Y: 0, Button Status: Not Clicked
+Trackball: X: 0, Y: 0, Button Status: Not Clicked
+Trackball: X: 0, Y: 0, Button Status: Not Clicked
+Trackball: X: 0, Y: 0, Button Status: Not Clicked
+Trackball: X: 0, Y: 0, Button Status: Not Clicked
+Trackball: X: 0, Y: 0, Button Status: Not Clicked
+Trackball: X: 0, Y: 0, Button Status: Not Clicked
+Trackball: X: 0, Y: 0, Button Status: Not Clicked
+Trackball: X: 0, Y: 0, Button Status: Not Clicked
+Trackball: X: 0, Y: 0, Button Status: Not Clicked
+Trackball: X: 0, Y: 0, Button Status: Not Clicked
+Trackball: X: 0, Y: 0, Button Status: Not Clicked
+Trackball: X: 0, Y: 0, Button Status: Not Clicked
+Trackball: X: 0, Y: 0, Button Status: Not Clicked
+Trackball: X: 0, Y: 0, Button Status: Not Clicked
+Trackball: X: 0, Y: 0, Button Status: Not Clicked
+Trackball: X: 0, Y: 0, Button Status: Not Clicked
+Trackball: X: 0, Y: 0, Button Status: Not Clicked
+Trackball: X: 0, Y: 0, Button Status: Not Clicked
+Trackball: X: 0, Y: 0, Button Status: Not Clicked
+Trackball: X: 0, Y: 0, Button Status: Not Clicked
+Trackball: X: 0, Y: 0, Button Status: Not Clicked
+Trackball: X: 0, Y: 0, Button Status: Not Clicked
+Trackball: X: 0, Y: 0, Button Status: Not Clicked
+Trackball: X: 0, Y: 0, Button Status: Not Clicked
+Trackball: X: 0, Y: 0, Button Status: Not Clicked
+Trackball: X: 0, Y: 0, Button Status: Not Clicked
+Trackball: X: 0, Y: 0, Button Status: Not Clicked
+Trackball: X: 0, Y: 0, Button Status: Not Clicked
+Trackball: X: 0, Y: 0, Button Status: Not Clicked
+Trackball: X: 0, Y: 0, Button Status: Not Clicked
+Trackball: X: 0, Y: 0, Button Status: Not Clicked
+Trackball: X: 0, Y: 0, Button Status: Not Clicked
+Trackball: X: 0, Y: 0, Button Status: Not Clicked
+Trackball: X: 0, Y: 0, Button Status: Not Clicked
+Trackball: X: 0, Y: 0, Button Status: Not Clicked
+Trackball: X: 0, Y: 0, Button Status: Not Clicked
+Trackball: X: 0, Y: 0, Button Status: Not Clicked
+Trackball: X: 0, Y: 0, Button Status: Not Clicked
+Trackball: X: 0, Y: 0, Button Status: Not Clicked
+Trackball: X: 0, Y: 0, Button Status: Not Clicked
+Trackball: X: 0, Y: 0, Button Status: Not Clicked
+Trackball: X: 0, Y: 0, Button Status: Not Clicked
+Trackball: X: 0, Y: 0, Button Status: Not Clicked
+Trackball: X: -2, Y: 1, Button Status: Not Clicked
+Trackball: X: -6, Y: 4, Button Status: Not Clicked
+Trackball: X: -10, Y: 6, Button Status: Not Clicked
+Trackball: X: -18, Y: 8, Button Status: Not Clicked
+Trackball: X: -22, Y: 8, Button Status: Not Clicked
+Trackball: X: -26, Y: 6, Button Status: Not Clicked
+Trackball: X: -26, Y: 5, Button Status: Not Clicked
+Trackball: X: -24, Y: 3, Button Status: Not Clicked
+Trackball: X: -22, Y: -2, Button Status: Not Clicked
+Trackball: X: -22, Y: -4, Button Status: Not Clicked
+Trackball: X: -20, Y: -4, Button Status: Not Clicked
+Trackball: X: -18, Y: -6, Button Status: Not Clicked
+Trackball: X: -16, Y: -9, Button Status: Not Clicked
+Trackball: X: -16, Y: -10, Button Status: Not Clicked
+Trackball: X: -15, Y: -10, Button Status: Not Clicked
+Trackball: X: -14, Y: -10, Button Status: Not Clicked
+Trackball: X: -12, Y: -8, Button Status: Not Clicked
+Trackball: X: -10, Y: -4, Button Status: Not Clicked
+Trackball: X: -10, Y: 1, Button Status: Not Clicked
+Trackball: X: -12, Y: 1, Button Status: Not Clicked
+Trackball: X: -14, Y: 2, Button Status: Not Clicked
+Trackball: X: -16, Y: 4, Button Status: Not Clicked
+Trackball: X: -16, Y: 3, Button Status: Not Clicked
+Trackball: X: -16, Y: -3, Button Status: Not Clicked
+Trackball: X: -16, Y: -5, Button Status: Not Clicked
+Trackball: X: -12, Y: -5, Button Status: Not Clicked
+Trackball: X: -10, Y: -5, Button Status: Not Clicked
+Trackball: X: -8, Y: -5, Button Status: Not Clicked
+Trackball: X: -8, Y: -4, Button Status: Not Clicked
+Trackball: X: -8, Y: -4, Button Status: Not Clicked
+Trackball: X: -8, Y: -3, Button Status: Not Clicked
+Trackball: X: -8, Y: -2, Button Status: Not Clicked
+Trackball: X: -8, Y: -2, Button Status: Not Clicked
+Trackball: X: -8, Y: -2, Button Status: Not Clicked
+Trackball: X: -8, Y: -2, Button Status: Not Clicked
+Trackball: X: -8, Y: -2, Button Status: Not Clicked
+Trackball: X: -8, Y: -2, Button Status: Not Clicked
+Trackball: X: -8, Y: -2, Button Status: Not Clicked
+Trackball: X: -8, Y: -2, Button Status: Not Clicked
+Trackball: X: -8, Y: -3, Button Status: Not Clicked
+Trackball: X: -12, Y: -6, Button Status: Not Clicked
+Trackball: X: -14, Y: -8, Button Status: Not Clicked
+Trackball: X: -14, Y: -10, Button Status: Not Clicked
+Trackball: X: -14, Y: -10, Button Status: Not Clicked
+Gyroscope: X: 0.07, Y: 8.97, Z: -3.97
+Gyroscope: X: 7.17, Y: 3.76, Z: -2.99
+Gyroscope: X: 3.06, Y: 12.73, Z: -0.21
+Gyroscope: X: -5.63, Y: 17.32, Z: 8.07
+Gyroscope: X: 1.74, Y: 12.59, Z: -1.53
+Gyroscope: X: 2.57, Y: 7.23, Z: 0.07
+Gyroscope: X: 1.04, Y: 10.3, Z: 0.9
+Gyroscope: X: 1.18, Y: 12.24, Z: 0.21
+Gyroscope: X: 2.09, Y: 8.63, Z: -1.32
+Gyroscope: X: 1.74, Y: 3.76, Z: -5.22
+Gyroscope: X: 6.82, Y: 9.95, Z: -13.43
+Gyroscope: X: 7.86, Y: 0.77, Z: -21.84
+Gyroscope: X: 5.7, Y: 1.67, Z: -19.13
+Gyroscope: X: 3.55, Y: -0.49, Z: -5.57
+Gyroscope: X: -0.35, Y: 6.4, Z: 0.35
+Gyroscope: X: 4.03, Y: 9.95, Z: -11.62
+Gyroscope: X: 9.04, Y: 7.58, Z: -6.68
+Gyroscope: X: 7.37, Y: 11.83, Z: -7.37
+Gyroscope: X: 3.2, Y: 19.9, Z: 5.01
+Gyroscope: X: -15.86, Y: 7.51, Z: 29.57
+Gyroscope: X: -2.16, Y: 14.4, Z: 0.83
+Gyroscope: X: -18.85, Y: 7.03, Z: -2.43
+Gyroscope: X: 0.97, Y: 14.47, Z: 3.2
+Gyroscope: X: 0.0, Y: 11.41, Z: 4.03
+Gyroscope: X: -6.61, Y: 16.49, Z: 6.33
+Gyroscope: X: -6.75, Y: 14.4, Z: 7.37
+Gyroscope: X: -2.57, Y: 16.14, Z: 2.3
+Gyroscope: X: -3.97, Y: 17.11, Z: 8.97
+Gyroscope: X: -0.97, Y: 8.28, Z: 3.41
+Gyroscope: X: 6.47, Y: 10.3, Z: -4.1
+Gyroscope: X: 2.37, Y: 10.99, Z: -3.83
+Gyroscope: X: -2.37, Y: 12.52, Z: -0.7
+Gyroscope: X: 0.0, Y: 14.33, Z: 2.02
+Gyroscope: X: 4.66, Y: 8.83, Z: 2.23
+Gyroscope: X: -0.97, Y: 10.5, Z: -4.17
+Gyroscope: X: -1.32, Y: 12.1, Z: -0.35
+Gyroscope: X: -2.23, Y: 9.81, Z: 0.14
+Gyroscope: X: 6.54, Y: 1.81, Z: 3.41
+Gyroscope: X: 1.67, Y: 9.67, Z: 0.63
+Gyroscope: X: -2.02, Y: 11.55, Z: -2.99
+Gyroscope: X: -0.63, Y: 9.32, Z: -0.35
+Accelerometer: X: -0.57, Y: 0.68, Z: -0.69
+Gyroscope: X: -1.18, Y: 11.2, Z: -2.02
+Accelerometer: X: -0.56, Y: 0.68, Z: -0.71
+Gyroscope: X: -1.46, Y: 10.3, Z: -1.46
+Accelerometer: X: -0.55, Y: 0.68, Z: -0.68
+Gyroscope: X: 0.0, Y: 9.18, Z: -2.09
+Accelerometer: X: -0.56, Y: 0.7, Z: -0.67
+Gyroscope: X: -0.28, Y: 8.63, Z: -1.04
+Accelerometer: X: -0.57, Y: 0.69, Z: -0.69
+Gyroscope: X: -0.21, Y: 9.46, Z: -4.59
+Accelerometer: X: -0.56, Y: 0.66, Z: -0.69
+Gyroscope: X: -0.63, Y: 11.48, Z: -3.2
+Accelerometer: X: -0.57, Y: 0.68, Z: -0.71
+Gyroscope: X: 0.63, Y: 12.03, Z: 1.74
+Accelerometer: X: -0.58, Y: 0.68, Z: -0.71
+Gyroscope: X: 0.63, Y: 10.99, Z: 1.88
+Accelerometer: X: -0.56, Y: 0.66, Z: -0.7
+Gyroscope: X: 2.85, Y: 10.92, Z: 0.0
+Accelerometer: X: -0.57, Y: 0.67, Z: -0.7
+Gyroscope: X: 3.34, Y: 10.23, Z: 0.7
+Accelerometer: X: -0.54, Y: 0.69, Z: -0.71
+Gyroscope: X: 6.89, Y: 12.38, Z: -0.49
+Accelerometer: X: -0.57, Y: 0.65, Z: -0.73
+Gyroscope: X: -2.02, Y: 11.06, Z: 1.46
+Accelerometer: X: -0.56, Y: 0.66, Z: -0.73
+Gyroscope: X: 0.42, Y: 11.13, Z: -0.35
+Accelerometer: X: -0.56, Y: 0.68, Z: -0.71
+Gyroscope: X: 1.53, Y: 7.86, Z: 2.5
+Accelerometer: X: -0.56, Y: 0.67, Z: -0.72
+Gyroscope: X: 2.71, Y: 10.92, Z: -1.25
+Accelerometer: X: -0.56, Y: 0.68, Z: -0.7
+Gyroscope: X: 1.81, Y: 8.35, Z: -0.83
+Accelerometer: X: -0.56, Y: 0.66, Z: -0.72
+Gyroscope: X: 0.9, Y: 9.81, Z: -1.74
+Accelerometer: X: -0.56, Y: 0.66, Z: -0.72
+Gyroscope: X: 0.63, Y: 10.43, Z: -0.97
+Accelerometer: X: -0.56, Y: 0.68, Z: -0.71
+Gyroscope: X: -0.77, Y: 11.97, Z: 0.77
+Accelerometer: X: -0.57, Y: 0.68, Z: -0.72
+Gyroscope: X: -0.14, Y: 10.78, Z: -0.42
+Accelerometer: X: -0.56, Y: 0.67, Z: -0.72
+Gyroscope: X: 1.46, Y: 10.5, Z: -0.42
+Accelerometer: X: -0.57, Y: 0.68, Z: -0.71
+Gyroscope: X: 3.27, Y: 8.9, Z: -0.21
+Accelerometer: X: -0.56, Y: 0.65, Z: -0.7
+Gyroscope: X: 3.62, Y: 5.98, Z: 0.28
+Accelerometer: X: -0.59, Y: 0.7, Z: -0.7
+Gyroscope: X: 0.42, Y: 6.96, Z: -4.03
+Accelerometer: X: -0.56, Y: 0.68, Z: -0.71
+Gyroscope: X: -0.7, Y: 11.76, Z: 0.83
+Accelerometer: X: -0.59, Y: 0.64, Z: -0.74
+Gyroscope: X: 9.67, Y: 8.9, Z: -5.36
+Accelerometer: X: -0.51, Y: 0.69, Z: -0.7
+Gyroscope: X: -1.81, Y: 18.71, Z: -1.53
+Accelerometer: X: -0.54, Y: 0.65, Z: -0.73
+Gyroscope: X: -2.3, Y: 8.42, Z: 0.77
+Accelerometer: X: -0.57, Y: 0.64, Z: -0.73
+Gyroscope: X: -0.14, Y: 8.14, Z: -3.2
+Accelerometer: X: -0.58, Y: 0.68, Z: -0.7
+Gyroscope: X: 1.18, Y: 11.06, Z: -1.74
+Accelerometer: X: -0.56, Y: 0.68, Z: -0.69
+Gyroscope: X: 2.57, Y: 9.04, Z: -1.39
+Accelerometer: X: -0.57, Y: 0.67, Z: -0.7
+Gyroscope: X: 1.81, Y: 10.71, Z: -1.32
+Accelerometer: X: -0.57, Y: 0.68, Z: -0.7
+Gyroscope: X: 0.97, Y: 10.23, Z: -0.07
+Accelerometer: X: -0.56, Y: 0.67, Z: -0.71
+Accelerometer: X: -0.55, Y: 0.66, Z: -0.71
+Accelerometer: X: -0.55, Y: 0.66, Z: -0.71
+Accelerometer: X: -0.56, Y: 0.68, Z: -0.7
+Accelerometer: X: -0.57, Y: 0.69, Z: -0.7
+Accelerometer: X: -0.56, Y: 0.66, Z: -0.7
+Accelerometer: X: -0.57, Y: 0.7, Z: -0.67
+Accelerometer: X: -0.59, Y: 0.68, Z: -0.73
+Accelerometer: X: -0.55, Y: 0.64, Z: -0.7
+Accelerometer: X: -0.55, Y: 0.64, Z: -0.73
+Accelerometer: X: -0.56, Y: 0.65, Z: -0.72
+Accelerometer: X: -0.56, Y: 0.7, Z: -0.71
+Accelerometer: X: -0.57, Y: 0.66, Z: -0.73
+Accelerometer: X: -0.57, Y: 0.66, Z: -0.73
+Accelerometer: X: -0.57, Y: 0.63, Z: -0.67
+Accelerometer: X: -0.59, Y: 0.7, Z: -0.71
+Accelerometer: X: -0.59, Y: 0.67, Z: -0.89
+Accelerometer: X: 1.0, Y: 0.0, Z: 0.0
+Accelerometer: X: -0.52, Y: 0.67, Z: -0.71
+Accelerometer: X: -0.61, Y: 0.64, Z: -0.72
+Accelerometer: X: -0.57, Y: 0.62, Z: -0.76
+Accelerometer: X: -0.57, Y: 0.63, Z: -0.75
+Accelerometer: X: -0.57, Y: 0.65, Z: -0.73
+Accelerometer: X: -0.55, Y: 0.66, Z: -0.76
+Accelerometer: X: -0.61, Y: 0.59, Z: -0.61
+Accelerometer: X: -0.51, Y: 0.64, Z: -0.62
+Accelerometer: X: -0.54, Y: 0.64, Z: -0.74
+Accelerometer: X: -0.67, Y: 0.63, Z: -0.86
+Accelerometer: X: -0.47, Y: 0.6, Z: -0.66
+Accelerometer: X: -0.48, Y: 0.71, Z: -0.68
+Accelerometer: X: -0.63, Y: 0.63, Z: -0.88
+Accelerometer: X: -0.38, Y: 0.75, Z: -0.66
+Accelerometer: X: -0.58, Y: 0.71, Z: -0.8
+Accelerometer: X: -0.54, Y: 0.61, Z: -0.71
+Accelerometer: X: -0.54, Y: 0.72, Z: -0.73
+Accelerometer: X: -0.54, Y: 0.7, Z: -0.7
+Accelerometer: X: -0.57, Y: 0.65, Z: -0.75
+Accelerometer: X: -0.54, Y: 0.65, Z: -0.71
+Accelerometer: X: -0.55, Y: 0.68, Z: -0.73
+Accelerometer: X: -0.51, Y: 0.7, Z: -0.7
+Accelerometer: X: -0.54, Y: 0.64, Z: -0.72
+Accelerometer: X: -0.55, Y: 0.67, Z: -0.72
+Accelerometer: X: -0.59, Y: 0.66, Z: -0.73
+Accelerometer: X: -0.54, Y: 0.7, Z: -0.71
+Accelerometer: X: -0.55, Y: 0.64, Z: -0.71
+Accelerometer: X: -0.59, Y: 0.66, Z: -0.73
+Accelerometer: X: -0.54, Y: 0.66, Z: -0.7
+Accelerometer: X: -0.56, Y: 0.63, Z: -0.74
+Accelerometer: X: -0.53, Y: 0.7, Z: -0.69
+Accelerometer: X: -0.57, Y: 0.65, Z: -0.71
+Accelerometer: X: -0.55, Y: 0.68, Z: -0.73
+Accelerometer: X: -0.56, Y: 0.65, Z: -0.74
+Accelerometer: X: -0.55, Y: 0.65, Z: -0.71
+Accelerometer: X: -0.57, Y: 0.66, Z: -0.71
+Accelerometer: X: -0.55, Y: 0.64, Z: -0.72
+Accelerometer: X: -0.54, Y: 0.66, Z: -0.72
+Accelerometer: X: -0.56, Y: 0.66, Z: -0.72
+Accelerometer: X: -0.57, Y: 0.65, Z: -0.73
+Accelerometer: X: -0.55, Y: 0.68, Z: -0.71
+Accelerometer: X: -0.55, Y: 0.66, Z: -0.71
+Accelerometer: X: -0.57, Y: 0.64, Z: -0.73
+Accelerometer: X: -0.55, Y: 0.66, Z: -0.72
+Accelerometer: X: -0.57, Y: 0.67, Z: -0.72
+Accelerometer: X: -0.56, Y: 0.66, Z: -0.71
